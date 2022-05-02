@@ -12,5 +12,10 @@ module.exports = {
         'no-undef': 'off',
       },
     },
+    {
+      rules: {
+        'linebreak-style': 'off',
+      },
+    }
   ],
 };
